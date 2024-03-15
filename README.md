@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🫡 I'm currently an undergraduate from the Department of Engineering Physics, Tsinghua.
+- 🫡 I'm currently an undergraduate from the Department of Engineering Physics, Tsinghua University.
 - 📚 I'm currently learning SQL and ML.
 - 📬 How to reach me: this-is-zhang-peng@outlook.com
 
