@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🫡 I'm currently an undergraduate from the Department of Engineering Physics, Tsinghua.
+- 📚 I'm currently learning SQL and ML.
+- 📬 How to reach me: this-is-zhang-peng@outlook.com
+
 <!--
 **zpByte/zpByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
